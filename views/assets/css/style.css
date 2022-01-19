@@ -1,0 +1,31 @@
+/*Css File*/
+/*body{*/
+/*    background-color: #fff;*/
+/*}*/
+header#masthead{
+    display:none;
+
+}
+
+footer#colophon {
+    display: none;
+}
+aside.widget-area {
+    display: none;
+}
+input[type=text], input[type=email], input[type=url], input[type=password], input[type=search], input[type=number], input[type=tel], input[type=date], input[type=month], input[type=week], input[type=time], input[type=datetime], input[type=datetime-local], input[type=color], .site textarea{
+    border:1px solid #ccc !important;
+}
+#wpadminbar {
+    display: none;
+}
+div#content {
+    margin-top: -32px !important;
+}
+aside.widget-area {
+    display: none;
+}
+.site-footer > .site-info {
+    display: none !important;
+    align-items: center;
+}
